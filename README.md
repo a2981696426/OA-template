@@ -1,4 +1,4 @@
-# demo1
+# OA-template
 
 ## Project setup
 
